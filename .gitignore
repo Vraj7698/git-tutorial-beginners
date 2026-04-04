@@ -3,5 +3,5 @@ passwords.txt
 
 *.log
 node_modules/
-
+index_file.html
 !important.log

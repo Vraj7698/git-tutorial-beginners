@@ -1,6 +1,9 @@
 # the best github repo out there
 this readme file
--Eat
--seelp
--code
--repeat
+the best ways are :
+- Eat
+- seelp
+- code
+- repeat
+
+Thank you

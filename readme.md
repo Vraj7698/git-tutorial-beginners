@@ -2,7 +2,7 @@
 this readme file
 the best ways are :
 - Eat
-- seelp
+- sleep
 - code
 - repeat
 
